@@ -7,10 +7,10 @@ This framework analyzes the decay channel of a Higgs boson into two photons from
 This decay mode provides a clear signature of two isolated and energetic photons. The signal manifests itself as a narrow peak in the diphoton invariant mass spectrum on top of a smoothly falling background from QCD production of two photons. More information can be found in the official documentation. (see reference)
 
 The procedures for the analysis:
- - Apply the standard object-selection criteria and an event-selection criteria to identify the photons.
- - Compare data and Monte-Carlo prediction for the distribution of the diphoton invariant mass spectrum.
- - Find an excess of events (a bump) in the histogram of event distribution.
- - The location of the excess of events gives the mass of the Higgs Boson.
+ 1. Apply the standard object-selection criteria and an event-selection criteria to identify the photons.
+ 2. Compare data and Monte-Carlo prediction for the distribution of the diphoton invariant mass spectrum.
+ 3. Find an excess of events (a bump) in the histogram of event distribution.
+ 4. The location of the excess of events gives the mass of the Higgs Boson.
  
 ### Reference
  
